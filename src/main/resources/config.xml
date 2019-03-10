@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<carBrand>BMW</carBrand>
+	
+<!-- 	https://stackoverflow.com/questions/15417254/class-forname-throws-classnotfoundexception -->
+	<className2>com.designpattern.factory.example.version2.FileLoggerFactory</className2>
+	<className3>com.designpattern.factory.example.version3.FileLoggerFactory</className3>
+	<className4>com.designpattern.factory.example.version4.FileLoggerFactory</className4>
+	
+	<abstractClassName>com.designpattern.abstractfactory.example.SpringSkinFactory</abstractClassName>
+</config>
